@@ -20,7 +20,7 @@ if ($var_operator == "Penjumlahan") {
 
 } elseif ($var_operator == "Pembagian") {
     $var_hitung = $var_angkaPertama/$var_angkaKedua;
-    echo "Hasil Pengurangan Angka Pertama - Angka Kedua : " . $var_hitung;
+    echo "Hasil Pembagian Angka Pertama / Angka Kedua : " . $var_hitung;
 }
 
 ?>
